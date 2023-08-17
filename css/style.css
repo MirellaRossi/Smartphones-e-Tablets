@@ -1,0 +1,43 @@
+a:link{
+    color: #DCDCDC	
+}
+a:visited{
+    color:#C0C0C0	
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #F5F5F5	;
+}
+
+header{
+    padding: 10px;
+    text-align: center;
+    background-color: #121212;
+}
+
+h1{
+    --color-h1: #FFFAFA;
+    color:var(--color-h1)
+}
+
+h1{
+    font-size: 47px;
+    letter-spacing: 2px;
+
+}
+ 
+
+.menu{
+    flex-wrap: nowrap;
+    padding: 5px;
+    word-spacing: 3px;
+
+
+
+}
